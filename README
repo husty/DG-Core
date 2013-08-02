@@ -1,0 +1,21 @@
+﻿= TrinityCore / Battle / Apocalypsecore / EchoCore / ArcanumCore / EvoeCore -- General information =
+
+Copyright (C) TrinityCore (http://www.trinitycore.org)
+Copyright (C) GaryFisher  (http://www.github.com/garyfisher)
+Copyright (C) Vitasic     (https://github.com/Vitasic/)
+Copyright (C) Ahuraa      (https://github.com/ahuraa/HeroicCore)
+Copyright (C) FireEmerald (https://github.com/EchoCore/EchoCore)
+Copyright (C) LORDofDOOM  (https://github.com/LORDofDOOM/MMOCoreEvo)
+
+TrinityCore Requirements
+Platform: Linux, Windows or Mac
+Processor with SSE2 support
+ACE ≥ 5.8.3
+MySQL ≥ 5.1.0
+CMake ≥ 2.8.0
+OpenSSL ≥ 0.9.8o
+GCC ≥ 4.3 (Linux only)
+MS Visual Studio ≥ 9 (2008) (Windows only)
+
+
+این یک نمونه از کار کرد تیم پشتیبانی سرور دانش گیم میباشد که برای 3.3.5 انجام شده 
